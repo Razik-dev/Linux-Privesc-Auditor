@@ -27,6 +27,7 @@ Found 0 world-writable files
 ## Demo
 
 ![Tool Demo](screenshots/demo.png)
+![Tool Demo](screenshots/demo01.png)
 
 ## Disclaimer
 
